@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076035787996",
+    "project_id": "testapp-ff998",
+    "storage_bucket": "testapp-ff998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076035787996:android:da7351632a0a0ac3c2e819",
+        "android_client_info": {
+          "package_name": "com.pokerface.the_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNM2Wpg0almZprCJ2EIiaVdCcKPA0r0YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
